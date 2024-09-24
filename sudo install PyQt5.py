@@ -1,0 +1,1 @@
+sudo install PyQt5
