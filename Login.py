@@ -25,7 +25,7 @@ def login():
     if row:
         messagebox.showinfo("info", "login success")
     else:
-        messagebox.showinfo("infor", "login failed")
+        messagebox.showinfo("info", "login failed")
 
 
 
