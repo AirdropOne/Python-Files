@@ -40,7 +40,7 @@ def day_to_star_sign(day):
         return "Sagittarius"
     else:
         return "Capricorn"
-## i
+
 
 while 1 == 1:
 

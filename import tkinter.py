@@ -1,11 +1,10 @@
 import tkinter
 
 root = tkinter.Tk()
-root.geometry = ("1000x250")
 
 
-# for i in range (4):
-    # root.grid_columnconfigure[i](padx=10, pady=10)
+for i in range (4):
+    root.grid_columnconfigure[i](padx=10, pady=10)
 
 
 
